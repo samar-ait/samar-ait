@@ -2,13 +2,13 @@
 
 ## 🎓 **Fifth-Year Software Engineering Student** at **ENSA Agadir**
 
-I'm passionate about software solutions, advanced technologies, and problem-solving. I’m always looking for opportunities to collaborate on innovative projects and expand my knowledge in fields like Full-Stack development, GIS, AI, machine learning, and IT project management.
+I'm passionate about software solutions, advanced technologies, and problem-solving. I’m always looking for opportunities to collaborate on innovative projects and expand my knowledge in fields like Full-Stack development, AI and IT project management.
 
 ---
 
 ## 🚀 **Areas of Interest**
 
-- **Full-Stack Development**: Building modern, scalable applications using Java, Spring Boot, Angular, and React.
+- **Full-Stack Development**: Building modern, scalable applications using Java, Spring Boot, React, and more.
 - **IT Project Management**: Leading and managing projects using agile methodologie.
 
 ---
